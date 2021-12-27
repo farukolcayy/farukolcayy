@@ -1,13 +1,26 @@
-Hi there, I'm Omer Faruk - farukolcayy 👋
+<h1 align="center">
+  Hello, there!
+  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+</h1>
+<h3 align="center"> I'm Yiğit and Software Engineer</h3>
+<p align="center">
+	<a href="https://www.linkedin.com/in/s-yi%C4%9Fit-tosun/" target="_blank">
+		<img src="https://www.linkedin.com/in/%C3%B6mer-faruk-olcay-001920186/" />
+	</a>
+  <a href="mailto:farukolcayy@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/farukolcayy)](https://github.com/farukolcayy) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/omerfaruk.olcay/)](https://www.instagram.com/omerfaruk.olcay/) 
+</p>
 
+## 📃 Stats
 
+<p align="center">
+    <a href="#"><img alt="Yiğit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=farukolcayy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Faruk's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukolcayy&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+</p>
 
+## 📈 Graph
+![Yiğit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farukolcayy&hide_border=true&theme=redical)
 
-
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=farukolcayy&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=farukolcayy&show_icons=true&theme=radical)
-
+## ✍️ Latest Blog Posts
