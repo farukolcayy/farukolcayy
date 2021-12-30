@@ -2,7 +2,7 @@
   Hello, there!
   <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
 </h1>
-<h3 align="center"> I'm Faruk and Frontend Developer</h3>
+<h3 align="center"> I'm Ömer Faruk and Frontend Developer</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/%C3%B6mer-faruk-olcay-001920186/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
